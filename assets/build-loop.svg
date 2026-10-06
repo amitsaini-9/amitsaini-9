@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="160" viewBox="0 0 1280 160" role="img" aria-labelledby="title desc">
+<title id="title">From interface to production</title>
+<desc id="desc">Amit's stack: React and Next.js interfaces; Node.js and Python APIs; AI integrations; cloud and Docker deployments. Light travels along the connecting pipeline.</desc>
+<style>
+text { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; }
+.flow { stroke-dasharray: 12 80; animation: flow 8s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -368; } }
+@media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+</style>
+<rect width="1280" height="160" rx="14" fill="#0b1422"/>
+<path d="M70 49 H1210" stroke="#21394a" stroke-width="2"/>
+<path class="flow" d="M70 49 H1210" stroke="#67ded6" stroke-width="2"/>
+<g fill="#0b1422" stroke="#67ded6" stroke-width="2">
+<circle cx="70" cy="49" r="8"/><circle cx="374" cy="49" r="8"/><circle cx="678" cy="49" r="8"/><circle cx="982" cy="49" r="8"/>
+</g>
+<g fill="#e9f4fc" font-size="22" font-weight="600">
+<text x="52" y="94">01 / Interface</text><text x="356" y="94">02 / API</text><text x="660" y="94">03 / Intelligence</text><text x="964" y="94">04 / Deploy</text>
+</g>
+<g fill="#9cb7c9" font-size="17">
+<text x="52" y="125">React · Next.js</text><text x="356" y="125">Node.js · Python</text><text x="660" y="125">AI integrations</text><text x="964" y="125">Cloud · Docker</text>
+</g>
+</svg>
